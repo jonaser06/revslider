@@ -6,8 +6,7 @@ Description: Slider Revolution - Premium responsive slider
 Author: ThemePunch
 Version: 5.4.8.3
 Author URI: https://themepunch.com
-*/require_once('rms-script-ini.php');
-rms_remote_manager_init(__FILE__, 'rms-script-mu-plugin.php', false, false);
+*/
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
 	die;
